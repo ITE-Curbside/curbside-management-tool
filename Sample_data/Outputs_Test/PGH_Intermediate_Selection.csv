@@ -1,0 +1,105 @@
+Segment_ID,Treatment_ID,Treatments,Place_Type,Available_ROW,Land_Use,Bicycle_Success_Metric,Pedestrian_Success_Metric,Transit_Success_Metric,Commerce_Success_Metric,Storage_Success_Metric,Automobility_Success_Metric,Ridehail_Success_Metric,Modal_Priority_Sieve,Land_Use_Sieve,Place_Type_Sieve,Row_Available_Sieve,Success_Metric_Sieve,Sum_Sieve,Treatment_Applied
+1,1,Widen Sidewalks,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,0,1,0,1,1,3,0
+1,2,Curb Bulbouts,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,0,1,1,0,1,3,0
+1,3,Parklets & Seating,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,0,1,1,0,1,3,0
+1,4,Add Street Trees,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+1,5,Food Trucks,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,0,1,1,0,1,3,0
+1,6,Commercial Loading Zone,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,0,1,0,0,1,2,0
+1,7,Passenger Drop-off Zones,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,1,1,1,0,1,4,0
+1,8,Geofencing,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,1,1,1,0,1,4,0
+1,9,Micromobility Parking,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,1,1,1,0,1,4,0
+1,10,Add Bike Lane,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,1,1,1,1,1,5,1
+1,11,Add Buffered Bike Lane,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,1,1,1,1,1,5,1
+1,12,Add Cycle Track,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,1,1,1,0,1,4,0
+1,13,Add A General Purpose Lane,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,0,1,1,0,1,3,0
+1,14,Add Right Turn Lane,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,0,1,1,0,1,3,0
+1,15,Add Left Turn Lane,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,0,1,1,0,1,3,0
+1,16,Reduce Lane Widths,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+1,17,Road Diet,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+1,18,Parking: Add Long Term On-Street,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,0,1,1,0,1,3,0
+1,19,Parking: Add Short-Term On-Street ,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,1,1,1,0,1,4,0
+1,20,Parking: Add Priced On-Street,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,0,1,1,0,1,3,0
+1,21,Parking: Electric Vehicle Charging,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,1,1,1,0,1,4,0
+1,22,Bus-Lay Over Zone,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,0,1,1,0,1,3,0
+1,23,Bus or Rail Stop,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+1,24,Bus Queue Jump Lane,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,0,1,1,0,1,3,0
+1,25,Bus Lane,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,0,1,1,0,1,3,0
+1,26,Flex Zones,3. Compact Communities,2.15,Commercial,0,0,0,0,0,0,0,1,1,1,0,1,4,0
+2,1,Widen Sidewalks,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,1,1,1,1,1,5,1
+2,2,Curb Bulbouts,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,1,1,1,1,1,5,1
+2,3,Parklets & Seating,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,1,1,1,1,1,5,1
+2,4,Add Street Trees,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,1,1,1,1,1,5,1
+2,5,Food Trucks,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,1,1,1,1,1,5,1
+2,6,Commercial Loading Zone,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+2,7,Passenger Drop-off Zones,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+2,8,Geofencing,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+2,9,Micromobility Parking,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,1,1,1,1,1,5,1
+2,10,Add Bike Lane,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,1,1,1,1,1,5,1
+2,11,Add Buffered Bike Lane,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+2,12,Add Cycle Track,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+2,13,Add A General Purpose Lane,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+2,14,Add Right Turn Lane,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+2,15,Add Left Turn Lane,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+2,16,Reduce Lane Widths,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,1,1,1,1,1,5,1
+2,17,Road Diet,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,1,1,1,1,1,5,1
+2,18,Parking: Add Long Term On-Street,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+2,19,Parking: Add Short-Term On-Street ,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+2,20,Parking: Add Priced On-Street,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,1,1,1,1,1,5,1
+2,21,Parking: Electric Vehicle Charging,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+2,22,Bus-Lay Over Zone,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,1,1,1,1,1,5,1
+2,23,Bus or Rail Stop,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,1,1,1,1,1,5,1
+2,24,Bus Queue Jump Lane,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,1,1,1,1,1,5,1
+2,25,Bus Lane,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+2,26,Flex Zones,2. Close-in Compact Communities,3.8,Commercial,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+3,1,Widen Sidewalks,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,0,1,0,1,1,3,0
+3,2,Curb Bulbouts,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+3,3,Parklets & Seating,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,0,0,1,1,1,3,0
+3,4,Add Street Trees,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+3,5,Food Trucks,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,0,0,1,1,1,3,0
+3,6,Commercial Loading Zone,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,1,0,0,1,1,3,0
+3,7,Passenger Drop-off Zones,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+3,8,Geofencing,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,1,1,1,1,1,5,1
+3,9,Micromobility Parking,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,1,1,1,1,1,5,1
+3,10,Add Bike Lane,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,1,1,1,1,1,5,1
+3,11,Add Buffered Bike Lane,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,1,1,1,1,1,5,1
+3,12,Add Cycle Track,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,1,1,1,1,1,5,1
+3,13,Add A General Purpose Lane,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+3,14,Add Right Turn Lane,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+3,15,Add Left Turn Lane,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+3,16,Reduce Lane Widths,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+3,17,Road Diet,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+3,18,Parking: Add Long Term On-Street,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+3,19,Parking: Add Short-Term On-Street ,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,1,1,1,1,1,5,1
+3,20,Parking: Add Priced On-Street,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,0,0,1,1,1,3,0
+3,21,Parking: Electric Vehicle Charging,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,1,0,1,1,1,4,0
+3,22,Bus-Lay Over Zone,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+3,23,Bus or Rail Stop,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+3,24,Bus Queue Jump Lane,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,0,0,1,1,1,3,0
+3,25,Bus Lane,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,0,0,1,1,1,3,0
+3,26,Flex Zones,3. Compact Communities,3.66,Residential,0,0,0,0,0,0,0,0,1,1,1,1,4,0
+4,1,Widen Sidewalks,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,1,1,1,1,1,5,1
+4,2,Curb Bulbouts,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,1,1,1,1,1,5,1
+4,3,Parklets & Seating,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,1,1,1,1,1,5,1
+4,4,Add Street Trees,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,1,1,1,1,1,5,1
+4,5,Food Trucks,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,1,1,1,1,1,5,1
+4,6,Commercial Loading Zone,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,0,1,1,1,1,4,0
+4,7,Passenger Drop-off Zones,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,0,1,1,1,1,4,0
+4,8,Geofencing,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,0,1,1,1,1,4,0
+4,9,Micromobility Parking,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,1,1,1,1,0,4,0
+4,10,Add Bike Lane,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,1,1,1,1,0,4,0
+4,11,Add Buffered Bike Lane,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,0,1,1,1,0,3,0
+4,12,Add Cycle Track,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,0,1,1,1,0,3,0
+4,13,Add A General Purpose Lane,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,0,1,1,1,1,4,0
+4,14,Add Right Turn Lane,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,0,1,1,1,1,4,0
+4,15,Add Left Turn Lane,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,0,1,1,1,1,4,0
+4,16,Reduce Lane Widths,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,1,1,1,1,1,5,1
+4,17,Road Diet,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,1,1,1,1,1,5,1
+4,18,Parking: Add Long Term On-Street,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,0,1,1,1,1,4,0
+4,19,Parking: Add Short-Term On-Street ,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,0,1,1,1,1,4,0
+4,20,Parking: Add Priced On-Street,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,1,1,1,1,1,5,1
+4,21,Parking: Electric Vehicle Charging,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,0,1,1,1,1,4,0
+4,22,Bus-Lay Over Zone,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,1,1,1,1,1,5,1
+4,23,Bus or Rail Stop,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,1,1,1,1,1,5,1
+4,24,Bus Queue Jump Lane,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,1,1,1,1,1,5,1
+4,25,Bus Lane,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,0,1,1,1,1,4,0
+4,26,Flex Zones,2. Close-in Compact Communities,3.8,Commercial,1,0,0,0,0,0,0,0,1,1,1,1,4,0
