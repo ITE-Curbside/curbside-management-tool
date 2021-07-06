@@ -9,7 +9,7 @@ The tool is written in Arcpy and usable with ArcGIS Pro version 2.4 or higher.
 
 ## User Guide
 
-The User Guide exemplifies how to use the tool, its applicable requirements, software, data and experience level. 
+The Curbside Management Tool User Guide provides information on how to use the tool, its applicable requirements, software, data and experience level. 
 
 ## FHWA_Curbside_Tools.tbx
 
