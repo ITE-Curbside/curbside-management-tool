@@ -15,7 +15,7 @@ The Curbside Management Tool User Guide provides instructions for transportation
 
 The FHWA_Curbside_Tool.tbx toolbox is loadable in ArcGIS Pro version 2.4 or higher. Details on the toolbox contents are in the User Guide.
 
-## scripts folder
+## Scripts folder
 
 The scripts folder contains the arcpy scripts used within the FHWA_Curbside_Tool toolbox or run as a standalone scripts in ArcGIS Pro. 
 
