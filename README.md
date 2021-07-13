@@ -17,8 +17,8 @@ The FHWA_Curbside_Tool.tbx toolbox is loadable in ArcGIS Pro version 2.4 or high
 
 ## Scripts folder
 
-The scripts folder contains the arcpy scripts used within the FHWA_Curbside_Tool toolbox or run as a standalone scripts in ArcGIS Pro. 
+The scripts folder contains the arcpy scripts used within the FHWA_Curbside_Tool tbx file, or each individual tool component can run as a standalone scripts in ArcGIS Pro. 
 
 ## Sample_data
 
-The Sample data provided allows a user to become familiar with the Tool and the required data to run the Tool and receive outputs. 
+The Sample data provided allows a user to become familiar with the Tool and the required data to run the Tool and receive outputs if they do not have their own curbside data available. 
