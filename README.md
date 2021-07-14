@@ -9,7 +9,7 @@ The tool is written in Arcpy and usable with ArcGIS Pro version 2.4 or higher.
 
 ## User Guide
 
-The Curbside Management Tool User Guide provides instructions for transportation professionals on how to gather, analyze, and assess curb related information, including applicable requirements, software, data, and experience level. 
+The Curbside Management Tool User Guide provides instructions for transportation professionals on how to gather, analyze, and assess curb related information, including applicable requirements, software, data, and experience level. The User Guide will walk you through how to use all components of the Tool. 
 
 ## FHWA_Curbside_Tools.tbx
 
