@@ -11,6 +11,10 @@ The tool is written in Arcpy and usable with ArcGIS Pro version 2.4 or higher.
 
 The Curbside Management Tool User Guide provides instructions, for transportation professionals with GIS experience, on how to gather, analyze, and assess curb related information, including applicable requirements, software, data, and experience level. The User Guide will walk through how to use all components of the Tool. 
 
+## Treatment Priority Lookup Table
+
+The Treatment Priority Lookup Table is an essential component which provides user guidance to the component to analyze with the ROW Centerlines. It is available as a separate table both within the GitHub repository and on ITE’s Curbside webpage.
+
 ## FHWA_Curbside_Tools.tbx
 
 The FHWA_Curbside_Tool.tbx toolbox is loadable in ArcGIS Pro version 2.4 or higher. Details on the toolbox contents are in the User Guide.
