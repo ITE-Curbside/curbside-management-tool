@@ -13,7 +13,7 @@ The Curbside Management Tool User Guide provides instructions, for transportatio
 
 ## Treatment Priority Lookup Table
 
-The Treatment Priority Lookup Table is an essential component which provides users guidance to analyze with the ROW centerlines. It is available as a separate table both within the GitHub repository and on ITE’s Curbside webpage.
+The Treatment Priority Lookup Table is an essential component which provides a user guidance to analyze with the ROW centerlines. It is available as a separate table both within the GitHub repository and on ITE’s Curbside webpage.
 
 ## FHWA_Curbside_Tools.tbx
 
