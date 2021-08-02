@@ -5,7 +5,9 @@ The Curbside Management Tool is intended to help with curbside management, inven
 
 The Curbside Management Tool contains a suite of components that facilitate data collection, analysis, and treatment recommendations for curbside regulation and public right-of-way (ROW) allocation. With the help of the Curbside Management Tool User Guide, a transportation professional with GIS experience should be able to identify relevant treatment options to help agencies allocate curbs and public ROW in line with policy priorities. This Tool will allow transportation professionals to understand applications of curbside treatments, whether the organization has curb asset data, and established curb policies or not.
 
-The tool is written in Arcpy and should be used in ArcGIS Pro version 2.4 or higher. Assistance with troublshooting the Tool is not available.
+The tool is written in Arcpy and should be used in ArcGIS Pro version 2.4 or higher. 
+
+Assistance with Tool troublshooting is not available.
 
 ## User Guide
 
