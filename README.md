@@ -7,7 +7,7 @@ The Curbside Management Tool contains a suite of components that facilitate data
 
 The tool is written in Arcpy and should be used in ArcGIS Pro version 2.4 or higher. 
 
-Assistance with Tool troublshooting is not available.
+Assistance with Tool troubleshooting is not available.
 
 ## User Guide
 
