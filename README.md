@@ -27,4 +27,4 @@ The scripts folder contains the arcpy scripts used within the FHWA_Curbside_Tool
 
 ## Sample_data
 
-The Sample data provided allows a user to become familiar with the Tool and the required data to run the Tool and receive outputs if they do not have their own curbside data available. 
+The sample data provided allows a user to become familiar with the Tool and the required data to run the Tool and receive outputs if they do not have their own curbside data available. The sample data folder includes a completed worksheet showing the outputs of the sample data set from Pittsburgh, PA, USA.
