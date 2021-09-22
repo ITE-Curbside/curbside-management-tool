@@ -412,7 +412,7 @@ def conduct_row_and_curbside_statistic_analysis(centerline_features,corridor_id,
                                 'timesOfDay_from', 'timesOfDay_to', 'Hours_Span', 'Weekly_Hours', 'Linear_Feet', 'Linear_Feet_Hours']
         stats = {"Linear_Feet": "sum", "Linear_Feet_Hours": "sum"}
         try:
-            corridor_summary = corridor_df.groupby(
+            corridor_summary = corridor_df.fillna(0).groupby(
                 [corridor_id, "activity", "priorityCategory", "maxStay", "payment", "daysOfWeek", "Days_Active", "timesOfDay_from",
                     "timesOfDay_to", "Hours_Span", "Weekly_Hours"]).agg(stats)
         except KeyError:
